@@ -14,9 +14,8 @@
   Written by Limor Fried & Kevin Townsend for Adafruit Industries.
   BSD license, all text above must be included in any redistribution
  ***************************************************************************/
-#include "Arduino.h"
-#include <Wire.h>
-#include <SPI.h>
+#include "../../SmingCore/Wire.h"
+#include "../../SmingCore/SPI.h"
 #include "Adafruit_BME280.h"
 
 /***************************************************************************
